@@ -1,0 +1,9 @@
+{
+  "video_resolution": "1280x720",
+  "target_fps": 30,
+  "camera_id": 0,
+  "detection_sensitivity": 0.5,
+  "difficulty_threshold": 0.5,
+  "save_detection_data": true,
+  "data_directory": "data"
+}
